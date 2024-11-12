@@ -1,0 +1,3 @@
+Hello this is my first project I have done in python which was to make a Discord bot that tracks stats in two video games, Deadlock and League Of Legends.
+Users when they add the bot to their Discord server will be able to use the commands in the code to manually enter their stats into the bot, which also could be displayed via the leaderboard command to compare with other users.
+Also for League Of Legends their is a bit connected with thier API that allows you look up your overall champion mastery in the game and set your ID for Riot. Overall this was a fun project and I hope to make many more like it.
