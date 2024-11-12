@@ -1,0 +1,90 @@
+{
+    "251960981821849600": {
+        "Deadlock": {
+            "Pocket": {
+                "Kills": 58,
+                "Deaths": 19,
+                "Wins": 7,
+                "Losses": 5,
+                "Assists": 93,
+                "Souls": 78000
+            },
+            "Ivy": {
+                "Wins": 10,
+                "Losses": 2,
+                "Kills": 15,
+                "Deaths": 4,
+                "Assists": 100,
+                "Souls": 63240
+            }
+        },
+        "League": {
+            "Yasuo": {
+                "Kills": 2,
+                "Deaths": 10,
+                "Wins": 5,
+                "Losses": 10,
+                "Assists": 0
+            },
+            "Yone": {
+                "Kills": 1,
+                "Deaths": 5,
+                "Wins": 0,
+                "Losses": 1,
+                "Assists": 12
+            },
+            "Fizz": {
+                "Kills": 20,
+                "Deaths": 10,
+                "Wins": 1,
+                "Losses": 1,
+                "Assists": 12
+            }
+        },
+        "puuid": "SuDa5fSl2oKYg7lBtqT2dl4jWy42uefBUS82gyXTaO4HYU5FzF7KwtrEjo3iQKm10sqFaZeizM421Q"
+    },
+    "857072369758502912": {
+        "League": {
+            "Yasuo": {
+                "Kills": 2,
+                "Deaths": 10000,
+                "Wins": 0,
+                "Losses": 50,
+                "Assists": 3
+            },
+            "Yone": {
+                "Kills": 10000,
+                "Deaths": 0,
+                "Wins": 999,
+                "Losses": 0,
+                "Assists": 5000
+            },
+            "Fizz": {
+                "Kills": 10,
+                "Deaths": 0,
+                "Wins": 2,
+                "Losses": 0,
+                "Assists": 0
+            }
+        },
+        "Deadlock": {
+            "Pocket": {
+                "Kills": 999,
+                "Deaths": 0,
+                "Wins": 99999,
+                "Losses": 1,
+                "Assists": 777,
+                "Souls": 999999
+            },
+            "Ivy": {
+                "Wins": 1,
+                "Losses": 50000,
+                "Kills": 1,
+                "Deaths": 75612,
+                "Assists": 10,
+                "Souls": 4000
+            }
+        },
+        "puuid": "9BNrGpBC8gbeeBTcSGKsaa5pdwP87fuperTUq_bXV2rma6Kpz07Uk5xOtyXXzP_hVVC7MbgVhikNtg"
+    }
+}
